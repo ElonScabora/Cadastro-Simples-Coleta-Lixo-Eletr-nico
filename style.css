@@ -1,0 +1,78 @@
+h1 {
+    font-family: 'Consolas', monospace;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Consolas', monospace;
+    text-align: center;
+    font-size: 25px;
+}
+
+#wrap input {
+    font-family: 'Consolas', monospace;
+    border-radius: 5px;
+    width: 30%;
+    height: 30px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+#botoes, #saida, #wrap {
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1%;
+    background-color: rgb(255, 255, 240);
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+button {
+    font-family: 'Consolas', monospace;
+    width: 30%;
+    height: 35px;
+    background-color: rgb(34, 139, 34, 0.884);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button:hover, tr:hover {
+    background-color: white;
+    color: black;
+}
+
+#saida input {
+    font-family: 'Consolas', monospace;
+    height: 20px;
+    width: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+table {
+    font-family: 'Consolas', monospace;
+    border: solid black;
+    border-radius: 10px;
+    background-color: rgb(34, 139, 34, 0.884);
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+}
+
+td {
+    font-family: 'Consolas', monospace;
+    border: 1px solid rgb(224, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
